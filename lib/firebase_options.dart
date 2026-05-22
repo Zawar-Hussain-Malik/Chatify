@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC_woJIGTkFRo_Wergf53HrQX0dET7Upy4',
+    apiKey: 'Add Your API Key Here',
     appId: '1:605428356022:web:f7150e34084fa2baa3a717',
     messagingSenderId: '605428356022',
     projectId: 'chatify-ad494',
